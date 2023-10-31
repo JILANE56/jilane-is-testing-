@@ -1,1 +1,1 @@
-print ("i love islam ")
+print ("i love islam ")u764u5ury766ji57tki687tkit67ki
